@@ -2,7 +2,7 @@
 
 ===================================================
         CarX Street 1.6.0 Modpack Tutorial
-===================================================
+
 
 [1] INSTALLATION
 ================
@@ -39,7 +39,6 @@ The answer is that you have not migrated the Catalog.json in the right place
 4. The ability to change the characteristics of cars more than the game allows
 5. You can also now modify the file if necessary or ask me.
 
-===================================================
             Enjoy your game!
 ===================================================
 
