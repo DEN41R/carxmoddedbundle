@@ -1,7 +1,4 @@
-
-
-===================================================
-        CarX Street 1.6.0 Modpack Tutorial
+**CarX Street 1.6.0 Modpack Tutorial
 
 
 [1] INSTALLATION
